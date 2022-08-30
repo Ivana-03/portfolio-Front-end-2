@@ -45,7 +45,7 @@ div#user-group {
   padding: 0 0 1rem 0;
 }
 
-.modal-content {
+.modal-content .login{
   padding: 3rem 1rem;
   background-color: #000;
   /* background-color: #365e88; 0 #848484*/
